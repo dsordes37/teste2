@@ -1,0 +1,71 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}body{
+    font-size: 18px;
+}#atlantic{
+    background-color: #7676ff;
+}#pampa{
+    background-color: #b760ff;
+}#cerrado{
+    background-color: #ffd560;
+}#caatinga{
+    background-color: #e7ff60;
+}#amazonia{
+    background-color: #60ffbd;
+}#pantanal{
+    background-color: #8dff60;
+}#index{
+    background-color: #45ff4f;
+}
+
+#atlantic_header{
+    background-color: #0000a5;
+}#pampa_header{
+    background-color: #5e00ac;
+}#cerrado_header{
+    background-color: #946c00;
+}#caatinga_header{
+    background-color: #7b9100;
+}#amazonia_header{
+    background-color: #1aa36a;
+}#pantanal_header{
+    background-color: #46a820;
+}#index_header{
+    background-color: #32a137;
+}
+
+
+header{
+    padding: 60px;
+    color: white;
+    background-color: #008000;
+}main{
+    width: 65vw;
+    margin: 30px auto;
+    padding: 30px;
+    background-color: white;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+h1{
+    text-align: center;
+    font-size: 60px;
+}h2, h3{
+    padding: 10px 0;
+}h2{
+    font-size: 30px;
+}
+ul{
+    padding: 20px;
+}.especies{
+    display: flex;
+    gap: 20px;
+}a{
+    margin: 5px;
+    font-weight: bolder;
+}
+
